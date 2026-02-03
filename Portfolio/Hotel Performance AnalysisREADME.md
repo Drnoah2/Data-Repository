@@ -1,3 +1,3 @@
-## Table of Content
+# Table of Content
 ---
 # [Introduction](#introduction)
