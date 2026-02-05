@@ -53,7 +53,7 @@ Data preparation was carried out using Power Query, including:
 -	Ensuring the right data type was used for all the columns.
 These steps ensured data accuracy, reliability, and readiness for modeling.
 Attached here are the applied steps carried out in the power query during the cleaning and transformation.
----
+
 <img width="1758" height="863" alt="image" src="https://github.com/user-attachments/assets/7772a602-9f3e-45d8-82c7-5890e3333f35" />
 
 
@@ -170,7 +170,7 @@ The Power BI dashboard includes:
 -	Column Chart illuistrating average waiting list days by customer type
 -	Donut Chart illustrating revenue distribution by customer type
 -	Interactive filters for dynamic analysis
----
+
 <img width="1332" height="727" alt="image" src="https://github.com/user-attachments/assets/7caaf9d3-0c2d-4f28-85da-ca5806b87177" />
 
 
