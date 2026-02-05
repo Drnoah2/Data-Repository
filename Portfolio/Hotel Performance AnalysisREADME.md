@@ -66,6 +66,10 @@ Attached below is the star schema of the modeling structure
 <img width="857" height="482" alt="image" src="https://github.com/user-attachments/assets/9a5f2bc7-3a9d-4941-8b00-71d1da8ee15f" />
 
 
+---
+## Data Analysis
+
+
 
 
 
