@@ -85,6 +85,8 @@ Attached below is the star schema of the modeling structure
 ---
 
 ## 1. Monthly Revenue Trend
+---
+<img width="621" height="287" alt="image" src="https://github.com/user-attachments/assets/c84f8c61-d3c8-4945-a9c0-bf6fff78fd63" />
 
 **Chart Type:** Line Chart
 **Metric:** Total Monthly Revenue
@@ -107,8 +109,11 @@ Attached below is the star schema of the modeling structure
 ---
 
 ## 2. Customers’ Days in Waiting List
+---
+<img width="617" height="257" alt="image" src="https://github.com/user-attachments/assets/5e01ffe8-1f30-42a5-b2bf-fc926a61e495" />
 
-**Chart Type:** Pie Chart
+
+**Chart Type:** Column Chart
 **Metric:** Average Days in Waiting List by Customer Type
 
 ### Key Insights
@@ -128,6 +133,8 @@ Attached below is the star schema of the modeling structure
 ---
 
 ## 3. Top Five Countries With Most Revenue
+---
+<img width="345" height="270" alt="image" src="https://github.com/user-attachments/assets/d200af43-6ba5-45b0-b848-659601dd12f7" />
 
 **Chart Type:** Horizontal Bar Chart
 **Metric:** Revenue by Country
@@ -149,6 +156,8 @@ Attached below is the star schema of the modeling structure
 ---
 
 ## 4. Revenue by Customers
+---
+<img width="350" height="257" alt="image" src="https://github.com/user-attachments/assets/ff77abc2-2eaa-4e05-99d4-93bca209c833" />
 
 **Chart Type:** Donut Chart
 **Metric:** Revenue Contribution by Customer Type
