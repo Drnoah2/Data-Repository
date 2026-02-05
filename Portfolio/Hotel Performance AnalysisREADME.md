@@ -75,13 +75,11 @@ Attached below is the star schema of the modeling structure.
 -	Total Revenue: $49.67M, indicating strong overall performance.
 -	Seasonality: Revenue peaks around July–August, suggesting high seasonal demand.
 -	Top Revenue Country: Portugal leads significantly, followed by Great Britain and France.
--	Customer Contribution:
+*	Customer Contribution:
 -	Transient customers contribute the largest share of revenue.
 -	Group and contract bookings play a smaller but stable role.
 -	Average Daily Rate (ADR): $99.42, indicating competitive pricing.
 -	Waiting List Duration: Low average (2.31 days), suggesting efficient booking management.
-
----
 
 ## 1. Monthly Revenue Trend
 ---
@@ -90,7 +88,6 @@ Attached below is the star schema of the modeling structure.
 Chart Type: Line Chart
 Metric: Total Monthly Revenue
 
----
 - Revenue begins at a moderate level in January ($3.4M) and dips in February
 - A steady upward trend is observed from March to June, reflecting recovering demand.
 - Peak revenue occurs in August ($7.5M), showing strong seasonal performance.
@@ -98,12 +95,10 @@ Metric: Total Monthly Revenue
 
 ### Recommendations
 
-* Implement dynamic pricing to maximize revenue during peak months (July–August).
-* Introduce off-season discounts and bundled offers between September and February.
-* Align staffing, inventory, and marketing spend with seasonal demand cycles.
-* Use historical trends to improve forecasting and capacity planning.
-
----
+- Implement dynamic pricing to maximize revenue during peak months (July–August).
+- Introduce off-season discounts and bundled offers between September and February.
+- Align staffing, inventory, and marketing spend with seasonal demand cycles.
+- Use historical trends to improve forecasting and capacity planning.
 
 ## 2. Customers’ Days in Waiting List
 ---
@@ -124,9 +119,6 @@ Metric: Average Days in Waiting List by Customer Type
 - Reassess allocation rules to reduce waiting time without impacting high-value bookings.
 - Consider converting long-waiting transient guests into future bookings through incentives.
 
-
----
-
 ## 3. Top Five Countries With Most Revenue
 ---
 <img width="345" height="270" alt="image" src="https://github.com/user-attachments/assets/d200af43-6ba5-45b0-b848-659601dd12f7" />
@@ -144,8 +136,6 @@ Metric: Revenue by Country
 - Expand targeted marketing campaigns in Great Britain and France.
 - Explore growth opportunities in underperforming regions through localized promotions.
 - Diversify revenue sources to reduce dependency on a single country.
-
----
 
 ## 4. Revenue by Customers
 ---
@@ -165,6 +155,7 @@ Metric: Revenue Contribution by Customer Type
 - Design customized pricing and incentives for long-stay and corporate customers.
 - Increase group booking promotions during low-demand periods.
 - Balance the customer mix to improve revenue stability.
+
 
 ---
 ## Data Visualization
