@@ -15,13 +15,13 @@
 
 ---
 ## Introduction
----
+
 This project presents a Hotel Performance Analysis Dashboard built using Power BI, designed to provide an overview of hotel booking patterns, guest demographics and operational efficencies, in order to maximize revenue.
 
 
 ---
 ## Problem Statement
----
+
 Hotel management faces challenges in:
 - Tracking overall revenue performance over time.
 -	Identifying top-performing markets and countries.
@@ -33,7 +33,7 @@ This project aims to solve this by transforming raw hotel booking data into an i
 
 ---
 ## Data Sourcing
----
+
 The data was sourced as structured tables from google spreadsheet in an excel file format and imported into Power BI Desktop for analysis.
 
 <img width="1357" height="606" alt="image" src="https://github.com/user-attachments/assets/2bcbdfb6-6bbf-4e03-8a33-0d3fbe314717" />
@@ -43,7 +43,7 @@ https://statisticstimes.com/geography/countries-by-continents.php
 
 ---
 ## Data Transformation & Cleaning
----
+
 Data preparation was carried out using Power Query, including:
 -	Removing duplicates, errors and null values.
 -	Standardizing column names and formats.
@@ -59,7 +59,7 @@ Attached here are the applied steps carried out in the power query during the cl
 
 ---
 ## Data Modeling
----
+
 A star schema was implemented to improve performance and usability:
 •	Fact Table: Hotel Fact (bookings, revenue, ADR, waiting days).
 •	Dimension Tables: Date Dimension, Hotel Dimension, Location Dimension, Market Segment, Meal Cost.
@@ -71,7 +71,7 @@ Attached below is the star schema of the modeling structure.
 
 ---
 ## Data Analysis
----
+
 -	Total Revenue: $49.67M, indicating strong overall performance.
 -	Seasonality: Revenue peaks around July–August, suggesting high seasonal demand.
 -	Top Revenue Country: Portugal leads significantly, followed by Great Britain and France.
@@ -83,7 +83,7 @@ Attached below is the star schema of the modeling structure.
 -	Waiting List Duration: Low average (2.31 days), suggesting efficient booking management.
 
 ## 1. Monthly Revenue Trend
----
+
 <img width="621" height="287" alt="image" src="https://github.com/user-attachments/assets/c84f8c61-d3c8-4945-a9c0-bf6fff78fd63" />
 
 Chart Type: Line Chart
@@ -102,7 +102,7 @@ Metric: Total Monthly Revenue
 - Use historical trends to improve forecasting and capacity planning.
 
 ## 2. Customers’ Days in Waiting List
----
+
 <img width="617" height="257" alt="image" src="https://github.com/user-attachments/assets/5e01ffe8-1f30-42a5-b2bf-fc926a61e495" />
 
 Chart Type: Column Chart
@@ -121,7 +121,7 @@ Metric: Average Days in Waiting List by Customer Type
 - Consider converting long-waiting transient guests into future bookings through incentives.
 
 ## 3. Top Five Countries With Most Revenue
----
+
 <img width="345" height="270" alt="image" src="https://github.com/user-attachments/assets/d200af43-6ba5-45b0-b848-659601dd12f7" />
 
 Chart Type: Horizontal Bar Chart
@@ -139,7 +139,7 @@ Metric: Revenue by Country
 - Diversify revenue sources to reduce dependency on a single country.
 
 ## 4. Revenue by Customers
----
+
 <img width="350" height="257" alt="image" src="https://github.com/user-attachments/assets/ff77abc2-2eaa-4e05-99d4-93bca209c833" />
 
 Chart Type: Donut Chart
@@ -160,7 +160,7 @@ Metric: Revenue Contribution by Customer Type
 
 ---
 ## Data Visualization
----
+
 The Power BI dashboard includes:
 - KPI Cards for quick performance overview
 -	Monthly Revenue Trend Line Chart to analyze seasonality
@@ -175,13 +175,12 @@ The Power BI dashboard includes:
 
 ---
 ## Conclusion
----
+
 This project demonstrates how raw hotel booking data can be transformed into meaningful business intelligence using Power BI to generate more insight on the guest demographics, operational efficeincies and booking patterns in the industry by integrating data cleaning, modeling, analysis, and visualization, the dashboard provides actionable insights that support revenue optimization and strategic planning.
 
 
 ---
 ## Recommendations
----
 
 - Improve room availability forecasting for transient-party demand, especially during peak seasons.
 - Consider converting long-waiting transient-party guests into future bookings through incentives.
