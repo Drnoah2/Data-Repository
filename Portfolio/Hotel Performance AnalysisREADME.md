@@ -91,7 +91,7 @@ Metric: Total Monthly Revenue
 
 - Revenue begins at a moderate level in January ($3.4M) and dips in February
 - A steady upward trend is observed from March to June, reflecting recovering demand.
-- Peak revenue occurs in August ($7.5M), showing strong seasonal performance.
+- Peak month in August ($7.5M), likely align with holiday periods or favorable travel seasons.
 - A sharp decline begins in September, with December recording the lowest revenue ($2.26M).
 
 ### Recommendations
@@ -145,6 +145,8 @@ Metric: Revenue by Country
 Chart Type: Donut Chart
 Metric: Revenue Contribution by Customer Type
 
+
+Reduce revenue concentration risk by strategically growing group bookings during off-peak periods.
 - Transient customers generate the majority of revenue ($38.43M).
 - Transient-Party customers contribute a notable share ($8.3M).
 - Group customers generate relatively low revenue ($2.76M).
@@ -176,7 +178,7 @@ The Power BI dashboard includes:
 ---
 ## Conclusion
 
-This project demonstrates how raw hotel booking data can be transformed into meaningful business intelligence using Power BI to generate more insight on the guest demographics, operational efficeincies and booking patterns in the industry by integrating data cleaning, modeling, analysis, and visualization, the dashboard provides actionable insights that support revenue optimization and strategic planning.
+The dashboard analysis shows that while transient customers and peak seasons drive the majority of revenue, operational delays and market concentration present risks. Addressing waiting-list inefficiencies and diversifying markets will improve revenue stability and guest experience.
 
 
 ---
