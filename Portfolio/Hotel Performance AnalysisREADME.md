@@ -75,7 +75,8 @@ Attached below is the star schema of the modeling structure.
 -	Total Revenue: $49.67M, indicating strong overall performance.
 -	Seasonality: Revenue peaks around July–August, suggesting high seasonal demand.
 -	Top Revenue Country: Portugal leads significantly, followed by Great Britain and France.
-*	Customer Contribution:
+
+  Customer Contribution:
 -	Transient customers contribute the largest share of revenue.
 -	Group and contract bookings play a smaller but stable role.
 -	Average Daily Rate (ADR): $99.42, indicating competitive pricing.
@@ -126,8 +127,8 @@ Metric: Average Days in Waiting List by Customer Type
 Chart Type: Horizontal Bar Chart
 Metric: Revenue by Country
 
-- Portugal** is the top contributor, generating $18.0M, far exceeding other countries.
-- Great Britain** ranks second with $5.9M, followed by France, Spain, and Germany.
+- Portugal is the top contributor, generating $18.0M, far exceeding other countries.
+- Great Britain ranks second with $5.9M, followed by France, Spain, and Germany.
 - Revenue contribution declines sharply after the top country.
 
 ### Recommendations
