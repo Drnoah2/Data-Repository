@@ -35,6 +35,7 @@ This project aims to solve this by transforming raw hotel booking data into an i
 ## Data Sourcing
 ---
 The data was sourced as structured tables from google spreadsheet in an excel file format and imported into Power BI Desktop for analysis.
+---
 <img width="1357" height="606" alt="image" src="https://github.com/user-attachments/assets/2bcbdfb6-6bbf-4e03-8a33-0d3fbe314717" />
 While the location and country was done through data scraping from the link below;
 https://statisticstimes.com/geography/countries-by-continents.php
@@ -52,6 +53,7 @@ Data preparation was carried out using Power Query, including:
 -	Ensuring the right data type was used for all the columns
 These steps ensured data accuracy, reliability, and readiness for modeling.
 Attached here are the applied steps carried out in the power query during the cleaning and transformation
+---
 <img width="1758" height="863" alt="image" src="https://github.com/user-attachments/assets/7772a602-9f3e-45d8-82c7-5890e3333f35" />
 
 
@@ -63,6 +65,7 @@ A star schema was implemented to improve performance and usability:
 •	Dimension Tables: Date Dimension, Hotel Dimension, Location Dimension, Market Segment, Meal Cost
 The relationship between the fact and the dimension table was based on one to many cardinality.
 Attached below is the star schema of the modeling structure
+
 <img width="857" height="482" alt="image" src="https://github.com/user-attachments/assets/9a5f2bc7-3a9d-4941-8b00-71d1da8ee15f" />
 
 
@@ -81,7 +84,7 @@ Attached below is the star schema of the modeling structure
 
 ---
 
-## Monthly Revenue Trend
+## 1. Monthly Revenue Trend
 
 **Chart Type:** Line Chart
 **Metric:** Total Monthly Revenue
@@ -103,7 +106,7 @@ Attached below is the star schema of the modeling structure
 
 ---
 
-## Customers’ Days in Waiting List
+## 2. Customers’ Days in Waiting List
 
 **Chart Type:** Pie Chart
 **Metric:** Average Days in Waiting List by Customer Type
@@ -124,7 +127,7 @@ Attached below is the star schema of the modeling structure
 
 ---
 
-## Top Five Countries With Most Revenue
+## 3. Top Five Countries With Most Revenue
 
 **Chart Type:** Horizontal Bar Chart
 **Metric:** Revenue by Country
@@ -145,12 +148,12 @@ Attached below is the star schema of the modeling structure
 
 ---
 
-## Revenue by Customers
+## 4. Revenue by Customers
 
 **Chart Type:** Donut Chart
 **Metric:** Revenue Contribution by Customer Type
 
-### 🔍 Key Insights
+### Key Insights
 
 * **Transient customers** generate the majority of revenue (**~₦38.43M**).
 * **Transient-Party customers** contribute a notable share (**~₦8.3M**).
