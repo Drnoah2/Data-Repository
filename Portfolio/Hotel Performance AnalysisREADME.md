@@ -164,20 +164,6 @@ Attached below is the star schema of the modeling structure
 * Increase group booking promotions during low-demand periods.
 * Balance the customer mix to improve revenue stability.
 
----
-
-## Overall Business Implications
-
-* Hotel performance is **highly seasonal**, with revenue peaks concentrated in mid-year.
-* **Transient customers** dominate both revenue and operational pressure.
-* Revenue is **geographically concentrated**, increasing exposure to market shifts.
-* Waiting list data reveals opportunities to improve operational efficiency.
-
----
-
-## Conclusion
-
-The chart-level analysis highlights strong revenue potential driven by seasonality and transient demand, alongside risks related to customer and geographic concentration. By diversifying customer segments, optimizing pricing strategies, and improving waitlist management, the hotel can achieve more stable and sustainable revenue growth.
 
 
 ---
