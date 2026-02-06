@@ -26,8 +26,7 @@ Hotel management faces challenges in:
 - Tracking overall revenue performance over time.
 -	Identifying top-performing markets and countries.
 -	Understanding guest demographics and booking patterns.
--	Monitoring pricing effectiveness (ADR) and booking demand.
-Without a centralized analytical view, decision-making becomes reactive rather than proactive.
+-	Monitoring price effectiveness (ADR) and booking demand.
 This project aims to solve this by transforming raw hotel booking data into an interactive and insightful Power BI dashboard.
 
 
